@@ -1,6 +1,6 @@
 // Configuración de la API 
 // const API_BASE_URL = 'http://localhost:3000/api'; // Para desarrollo local 
-const API_BASE_URL = 'https://backend-zdvg.onrender.com/api'; // Para producción 
+const API_BASE_URL = 'https://backend-90ao.onrender.com/api'; // Para producción 
 //const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : 
 // 'http://localhost:3000/api'; 
  
